@@ -189,10 +189,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Lucide for beautiful icons
 - All open-source contributors who made this project possible
 
-## 📞 Support
 
-For support, email support@studyplanner.com or open an issue on GitHub.
 
----
 
-**Built with ❤️ for students everywhere**
